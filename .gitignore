@@ -1,0 +1,6 @@
+work/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+_cbuild_*.so
+ros_ws/

@@ -1,0 +1,233 @@
+term,layer,tag,source
+Bit mask and shift,C and bare-metal,Math,Skill Hub
+Read-modify-write,C and bare-metal,Concept,Skill Hub
+Timer prescaler and auto-reload,C and bare-metal,Math,Skill Hub
+Integer promotion and usual arithmetic conversions,C and bare-metal,Concept,Skill Hub
+Signed overflow,C and bare-metal,Concept,Skill Hub
+"Undefined, unspecified and implementation-defined behavior",C and bare-metal,Concept,Skill Hub
+Saturating arithmetic,C and bare-metal,Math,Skill Hub
+Q15 fixed-point multiply,C and bare-metal,Math,Skill Hub
+Struct padding and alignment,C and bare-metal,Concept,Skill Hub
+Endianness and serialization,C and bare-metal,Concept,Skill Hub
+Strict aliasing,C and bare-metal,Concept,Skill Hub
+Memory-mapped registers,C and bare-metal,Concept,Skill Hub
+volatile,C and bare-metal,Concept,Skill Hub
+Atomic set and reset registers,C and bare-metal,Concept,Skill Hub
+Clock gating,C and bare-metal,Concept,Skill Hub
+Debouncing,C and bare-metal,Concept,Skill Hub
+Linker script sections,C and bare-metal,Concept,Skill Hub
+Load versus run address,C and bare-metal,Concept,Skill Hub
+Reset sequence and vector table,C and bare-metal,Concept,Skill Hub
+Stack and heap layout,C and bare-metal,Concept,Skill Hub
+Race condition and atomicity,C and bare-metal,Concept,Skill Hub
+Memory barrier and compiler reordering,C and bare-metal,Concept,Skill Hub
+Lock-free single-producer single-consumer queue,C and bare-metal,Concept,Skill Hub
+Exception entry and stacking,C and bare-metal,Concept,Skill Hub
+EXC_RETURN,C and bare-metal,Concept,Skill Hub
+Fault status registers,C and bare-metal,Concept,Skill Hub
+Wraparound-safe time comparison,C and bare-metal,Math,Skill Hub
+Fixed-block memory pool,C and bare-metal,Concept,Skill Hub
+Stack overflow detection,C and bare-metal,Concept,Skill Hub
+Cyclic redundancy check,Drivers and protocols,Math,Skill Hub
+Streaming frame parser,Drivers and protocols,Concept,Skill Hub
+Consistent Overhead Byte Stuffing,Drivers and protocols,Concept,Skill Hub
+Baud rate error,Drivers and protocols,Math,Skill Hub
+Interrupt-driven ring buffer,Drivers and protocols,Concept,Skill Hub
+SPI modes,Drivers and protocols,Concept,Skill Hub
+Chip-select timing and daisy chains,Drivers and protocols,Concept,Skill Hub
+"I2C start, stop, repeated start and acknowledge",Drivers and protocols,Concept,Skill Hub
+I2C bus recovery,Drivers and protocols,Concept,Skill Hub
+Clock stretching,Drivers and protocols,Concept,Skill Hub
+I2C pull-up sizing,Drivers and protocols,Math,Skill Hub
+I3C (Improved Inter-Integrated Circuit),Drivers and protocols,Concept,Skill Hub
+I3C dynamic address assignment,Drivers and protocols,Concept,Skill Hub
+I3C in-band interrupt and hot-join,Drivers and protocols,Concept,Skill Hub
+I3C common command codes,Drivers and protocols,Concept,Skill Hub
+I3C high data rate modes,Drivers and protocols,Concept,Skill Hub
+I3C versus I2C trade-offs,Drivers and protocols,Concept,Skill Hub
+Quad and octal SPI flash,Drivers and protocols,Concept,Skill Hub
+CAN arbitration,Drivers and protocols,Concept,Skill Hub
+CAN bit stuffing,Drivers and protocols,Concept,Skill Hub
+CAN bit timing,Drivers and protocols,Math,Skill Hub
+CAN bus load,Drivers and protocols,Math,Skill Hub
+CAN acceptance filters and masks,Drivers and protocols,Concept,Skill Hub
+CAN error confinement,Drivers and protocols,Concept,Skill Hub
+CAN error frame and remote frame,Drivers and protocols,Concept,Skill Hub
+CAN termination,Drivers and protocols,Concept,Skill Hub
+CAN FD data length codes and bit rate switch,Drivers and protocols,Concept,Skill Hub
+CAN heartbeat and node guarding,Drivers and protocols,Concept,Skill Hub
+CANopen object dictionary,Drivers and protocols,Concept,Skill Hub
+CANopen PDO and SDO,Drivers and protocols,Concept,Skill Hub
+CANopen network management,Drivers and protocols,Concept,Skill Hub
+CiA 402 drive state machine,Drivers and protocols,Concept,Skill Hub
+J1939 parameter group numbers,Drivers and protocols,Concept,Skill Hub
+J1939 address claiming,Drivers and protocols,Concept,Skill Hub
+ISO-TP transport segmentation,Drivers and protocols,Concept,Skill Hub
+Unified Diagnostic Services,Drivers and protocols,Concept,Skill Hub
+Cyphal and DroneCAN,Drivers and protocols,Concept,Skill Hub
+Time-triggered CAN,Drivers and protocols,Concept,Skill Hub
+Modbus RTU framing,Drivers and protocols,Concept,Skill Hub
+RS-485 driver-enable timing,Drivers and protocols,Concept,Skill Hub
+Idempotent command,Drivers and protocols,Concept,Skill Hub
+Dispatch table,Drivers and protocols,Concept,Skill Hub
+Half-duplex bus time budget,Drivers and protocols,Math,Skill Hub
+SocketCAN,Drivers and protocols,Concept,Skill Hub
+Linux Industrial I/O and sysfs,Drivers and protocols,Concept,Skill Hub
+Rate-monotonic scheduling,Real-time and Linux,Math,Skill Hub
+Response-time analysis,Real-time and Linux,Math,Skill Hub
+Priority inversion and inheritance,Real-time and Linux,Concept,Skill Hub
+Semaphore versus mutex,Real-time and Linux,Concept,Skill Hub
+Deferred interrupt processing,Real-time and Linux,Concept,Skill Hub
+Interrupt latency and jitter,Real-time and Linux,Math,Skill Hub
+Deadlock conditions,Real-time and Linux,Concept,Skill Hub
+Drift-free periodic timing,Real-time and Linux,Math,Skill Hub
+SCHED_FIFO and PREEMPT_RT,Real-time and Linux,Concept,Skill Hub
+Memory locking and absolute sleeps,Real-time and Linux,Concept,Skill Hub
+Linux boot chain and device tree,Real-time and Linux,Concept,Skill Hub
+Character device driver,Real-time and Linux,Concept,Skill Hub
+Wait queues and kernel locking contexts,Real-time and Linux,Concept,Skill Hub
+ros2_control hardware interface,Real-time and Linux,Concept,Skill Hub
+ROS 2 quality of service,Real-time and Linux,Concept,Skill Hub
+Hardware abstraction layer and dependency injection,Reliability and systems,Concept,Skill Hub
+Test doubles and coverage,Reliability and systems,Concept,Skill Hub
+MISRA C and static analysis,Reliability and systems,Concept,Skill Hub
+Bootloader image validation,Reliability and systems,Concept,Skill Hub
+A/B images and rollback,Reliability and systems,Concept,Skill Hub
+Flash programming and wear,Reliability and systems,Concept,Skill Hub
+Append-only log with commit markers,Reliability and systems,Concept,Skill Hub
+Watchdog supervision,Reliability and systems,Concept,Skill Hub
+Power-on self-test and march tests,Reliability and systems,Concept,Skill Hub
+Reset cause and degraded mode,Reliability and systems,Concept,Skill Hub
+MTBF and exponential reliability,Reliability and systems,Math,Skill Hub
+Requirements traceability,Reliability and systems,Concept,Skill Hub
+IEC 62304 software safety classes,Reliability and systems,Concept,Skill Hub
+Design for test and manufacturing test,Reliability and systems,Concept,Skill Hub
+Post-mortem debugging,Reliability and systems,Concept,Skill Hub
+Fail-safe design and fault latching,Reliability and systems,Concept,Skill Hub
+Emergency stop categories,Reliability and systems,Concept,Skill Hub
+Hierarchical state machine,Reliability and systems,Concept,Skill Hub
+Behavior tree,Reliability and systems,Concept,Skill Hub
+Compute partitioning and safety architecture,Reliability and systems,Concept,Skill Hub
+Voltage divider and thermistor Beta equation,Hardware and electronics,Math,Skill Hub
+Ratiometric measurement,Hardware and electronics,Concept,Skill Hub
+ADC resolution and effective number of bits,Hardware and electronics,Math,Skill Hub
+Oversampling,Hardware and electronics,Math,Skill Hub
+DMA double buffering,Hardware and electronics,Concept,Skill Hub
+Duty-cycled average current,Hardware and electronics,Math,Skill Hub
+Phase-locked loop and clock accuracy,Hardware and electronics,Math,Skill Hub
+Propagation delay and timing budget,Hardware and electronics,Math,Skill Hub
+Nyquist sampling and aliasing,Hardware and electronics,Math,Skill Hub
+Center-aligned PWM and dead time,Control and motion,Concept,Skill Hub
+Input capture,Control and motion,Concept,Skill Hub
+Quadrature decoding,Control and motion,Math,Skill Hub
+Signed modular velocity,Control and motion,Math,Skill Hub
+PID and anti-windup,Control and motion,Math,Skill Hub
+Cascade control,Control and motion,Concept,Skill Hub
+Discretizing a first-order filter,Control and motion,Math,Skill Hub
+Step response metrics,Control and motion,Math,Skill Hub
+First-order plus dead-time model,Control and motion,Math,Skill Hub
+Trapezoidal motion profile,Control and motion,Math,Skill Hub
+Stepper acceleration ramp,Control and motion,Math,Skill Hub
+Digital differential analyzer,Control and motion,Math,Skill Hub
+Following error and homing,Control and motion,Concept,Skill Hub
+Current-based collision detection,Control and motion,Math,Skill Hub
+Clarke and Park transforms,Control and motion,Math,Skill Hub
+Field-oriented control,Control and motion,Concept,Skill Hub
+Space vector modulation and back-EMF,Control and motion,Concept,Skill Hub
+Dead-man switch and velocity limiting,Control and motion,Concept,Skill Hub
+Two-way time transfer,Estimation and perception,Math,Skill Hub
+Homogeneous transform,Estimation and perception,Math,Skill Hub
+Quaternion and Euler angles,Estimation and perception,Math,Skill Hub
+Jacobian and singularities,Estimation and perception,Math,Skill Hub
+Gauss-Newton calibration,Estimation and perception,Math,Skill Hub
+Configuration space and A* search,Planning and learning,Concept,Skill Hub
+Rapid spanning tree protocol,Drivers and protocols,Concept,Skill Hub
+Virtual local area network,Drivers and protocols,Concept,Skill Hub
+Precision Time Protocol,Drivers and protocols,Concept,Skill Hub
+EtherCAT processing on the fly,Drivers and protocols,Concept,Skill Hub
+Yocto Project and Poky,Real-time and Linux,Concept,Skill Hub
+BitBake and tasks,Real-time and Linux,Concept,Skill Hub
+Recipe (.bb) and append file (.bbappend),Real-time and Linux,Concept,Skill Hub
+Layer,Real-time and Linux,Concept,Skill Hub
+Board support package layer and machine configuration,Real-time and Linux,Concept,Skill Hub
+Image recipe and IMAGE_INSTALL,Real-time and Linux,Concept,Skill Hub
+Distribution features and init system,Real-time and Linux,Concept,Skill Hub
+Shared state cache and downloads directory,Real-time and Linux,Concept,Skill Hub
+Kernel recipe and configuration fragments,Real-time and Linux,Concept,Skill Hub
+Out-of-tree kernel module recipe,Real-time and Linux,Concept,Skill Hub
+Software development kit and devtool,Real-time and Linux,Concept,Skill Hub
+"Reproducible builds, licenses and software bill of materials",Real-time and Linux,Concept,Skill Hub
+Yocto versus Buildroot,Real-time and Linux,Concept,Skill Hub
+Over-the-air update for embedded Linux,Real-time and Linux,Concept,Skill Hub
+Symmetric multiprocessing,Real-time and Linux,Concept,Skill Hub
+Asymmetric multiprocessing,Real-time and Linux,Concept,Skill Hub
+Heterogeneous multicore system on chip,Real-time and Linux,Concept,Skill Hub
+CPU affinity and core isolation,Real-time and Linux,Concept,Skill Hub
+Interrupt affinity,Real-time and Linux,Concept,Skill Hub
+Cache coherence and false sharing,Real-time and Linux,Concept,Skill Hub
+Memory ordering and spinlocks across cores,Real-time and Linux,Concept,Skill Hub
+Amdahl's law,Real-time and Linux,Math,Skill Hub
+Per-core utilization budget,Real-time and Linux,Math,Skill Hub
+Remote processor framework and boot of a microcontroller core,Real-time and Linux,Concept,Skill Hub
+RPMsg and OpenAMP,Real-time and Linux,Concept,Skill Hub
+Shared-memory ring buffer with doorbell,Real-time and Linux,Concept,Skill Hub
+Hypervisor and partitioning,Real-time and Linux,Concept,Skill Hub
+big.LITTLE and frequency scaling,Real-time and Linux,Concept,Skill Hub
+CPU hotplug and idle states,Real-time and Linux,Concept,Skill Hub
+Kalman filter,Estimation,Math,Skill Hub
+Kalman gain,Estimation,Math,Skill Hub
+Process noise (Q) and measurement noise (R),Estimation,Math,Skill Hub
+Innovation,Estimation,Concept,Skill Hub
+Observability,Estimation,Concept,Skill Hub
+Complementary filter,Estimation,Math,Skill Hub
+Extended Kalman filter,Estimation,Math,Skill Hub
+Unscented Kalman filter,Estimation,Concept,Skill Hub
+Particle filter,Estimation,Concept,Skill Hub
+Jacobian,Estimation and planning,Math,Skill Hub
+Pinhole camera model,Perception,Math,Skill Hub
+Intrinsics and extrinsics,Perception,Concept,Skill Hub
+Reprojection error,Perception,Math,Skill Hub
+Perspective-n-Point,Perception,Concept,Skill Hub
+Homography,Perception,Math,Skill Hub
+Stereo disparity,Perception,Math,Skill Hub
+Convolution,Perception and learning,Math,Skill Hub
+Optical flow,Perception,Concept,Skill Hub
+Simultaneous localization and mapping,Perception,Concept,Skill Hub
+Loop closure,Perception,Concept,Skill Hub
+Occupancy grid,Perception,Concept,Skill Hub
+Forward and inverse kinematics,Planning,Math,Skill Hub
+Singularity,Planning,Concept,Skill Hub
+Configuration space,Planning,Concept,Skill Hub
+"A*, RRT, probabilistic roadmap",Planning,Concept,Skill Hub
+Trajectory time scaling,Planning,Math,Skill Hub
+Linear Quadratic Regulator,Control,Math,Skill Hub
+Model predictive control,Control,Concept,Skill Hub
+Behavior cloning,Learning,Concept,Skill Hub
+"Action chunking transformer, diffusion policy",Learning,Concept,Skill Hub
+Reinforcement learning,Learning,Concept,Skill Hub
+Sim-to-real gap and domain randomization,Learning,Concept,Skill Hub
+Quantization,Deployment,Math,Skill Hub
+Post-training quantization versus quantization-aware training,Deployment,Concept,Skill Hub
+Arithmetic intensity and roofline,Deployment,Math,Skill Hub
+Multiply-accumulate,Deployment,Math,Skill Hub
+"Warp, block, coalescing",Deployment,Concept,Skill Hub
+"ONNX, TensorRT, TensorFlow Lite",Deployment,Concept,Skill Hub
+Operator fallback,Deployment,Concept,Skill Hub
+Latency versus throughput,Deployment,Math,Skill Hub
+Energy per inference,Deployment,Math,Skill Hub
+Direct memory access and cache coherence,Deployment,Concept,Skill Hub
+Systolic array,Deployment,Concept,Skill Hub
+Bus selection map,Maps,Concept,Skill Hub Maps
+Compute selection map,Maps,Concept,Skill Hub Maps
+ROS 2 nodes and topics,ROS 2,Concept,Added (ROS 2 track)
+ROS 2 services and parameters,ROS 2,Concept,Added (ROS 2 track)
+ROS 2 actions,ROS 2,Concept,Added (ROS 2 track)
+ROS 2 launch files,ROS 2,Concept,Added (ROS 2 track)
+tf2 transform tree,ROS 2,Math,Added (ROS 2 track)
+URDF and robot_state_publisher,ROS 2,Concept,Added (ROS 2 track)
+Executors and callback groups,ROS 2,Concept,Added (ROS 2 track)
+Lifecycle (managed) nodes,ROS 2,Concept,Added (ROS 2 track)
+rclcpp node built with colcon,ROS 2,Concept,Added (ROS 2 track)
+Custom interfaces (msg and srv),ROS 2,Concept,Added (ROS 2 track)
+rosbag2 recording and analysis,ROS 2,Concept,Added (ROS 2 track)
+DDS discovery and domain ID,ROS 2,Concept,Added (ROS 2 track)
